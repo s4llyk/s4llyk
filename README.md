@@ -4,7 +4,7 @@
   -- I love programming.
 </details>
 ---
->Here is my quote.
+> Here is my quote.
 <!--
 **s4llyk/s4llyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
