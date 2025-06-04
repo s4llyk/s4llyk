@@ -1,8 +1,10 @@
 <details>
   <summary> About me: </summary>
   -- I have two cats.
-  -- I love programming.
+  \n I love programming.
 </details>
+
+
 ---
 > Here is my quote.
 <!--
