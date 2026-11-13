@@ -1,5 +1,7 @@
-<h3 align="center"> Hi, I'm Sally! 👋 </h3>
+<h3> Hi there! 👋 </h3>
 <!-- add banner -->
+<img width="2400" height="600" alt="image" src="https://github.com/user-attachments/assets/ce666741-333f-4575-b0ef-d47b5e562566" />
+
 <p align="center">
   I am a first-year Computational Media major at Georgia Tech with a concentration in Artificial Intelligence and Interaction Design. I love combining art with technology, and I am especially interested in VFX, UI/UX design, and film/animation.
 </p>
